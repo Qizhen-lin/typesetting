@@ -8,11 +8,11 @@ body {
 }
 
 .wrap {
-  background-image:url(img/IMG_5612.jpg);
+  background-image:url(img/IMG_5904.jpg);
   background-size: 100%;
   background-position: center center;
   background-blend-mode: multiply;
-  background-color: rgba(31, 34, 49, 0.3);
+  background-color: rgba(31, 34, 49, 0.123);
   height: 400px;
   display: flex;
   align-items: center;
